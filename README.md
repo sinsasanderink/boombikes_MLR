@@ -48,6 +48,9 @@ The dataset used in this project is "day.csv," which includes daily bike rental 
 - Warnings
 - Calendar
 
+## Reading & understanding data
+- Load the data and get an understanding.
+
 ### Data Cleaning
 * Remove unnecessary columns.
 * Handle missing values and check for any outliers in the dataset.
