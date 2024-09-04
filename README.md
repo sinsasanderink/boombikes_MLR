@@ -54,11 +54,8 @@ The dataset used in this project is "day.csv," which includes daily bike rental 
 
 ### EDA (Exploratory Data Analysis)
 #### Univariate Analysis
-* Analyze individual features to understand their distributions using histograms, box plots, and summary statistics.
 #### Bivariate Analysis
-* Examine the relationship between two variables (e.g., scatter plots, correlation heatmaps) to assess trends and relationships.
 #### Multivariate Analysis
-* Explore relationships between more than two variables using pair plots and correlation matrices to detect interactions.
 
 ### Data Preparation
 * Create dummy variables for categorical data.
